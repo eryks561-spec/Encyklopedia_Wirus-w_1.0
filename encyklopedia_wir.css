@@ -1,0 +1,36 @@
+body{
+   
+    font-family: Consolas;
+    background-color: white;
+}
+
+/* nagłówek */
+header{
+    border-style: groove;
+    border-color: darkkhaki;
+    border-width: 10px;
+
+    text-align: center;
+    font-family: Consolas;
+}
+
+/* spis treści */
+
+nav{
+    background-color: beige;
+    border-radius: 8px;
+}
+/* artykół */
+article{
+    margin: 10px;
+    border-style: dotted;
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    background-color: beige;
+    border-width: 5px;
+    border-style: dotted;
+    text-align: center;
+}
